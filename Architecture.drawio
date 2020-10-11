@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-11T14:36:34.820Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="U7tD2yPBNqUFJyOViwBX" version="13.7.9" type="github">
+<mxfile modified="2020-10-11T14:48:16.078Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="e0BknG92ci3_9wdiZvoK" version="13.7.9" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,6 +195,27 @@
             <mxPoint x="521.1599999999999" y="820" as="sourcePoint" />
             <mxPoint x="649" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BU_BV3Jj0OZk1A3pwipz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.428;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BU_BV3Jj0OZk1A3pwipz-6" target="BU_BV3Jj0OZk1A3pwipz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="771" y="630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU_BV3Jj0OZk1A3pwipz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="efUQSqCdX8FpRJUoyxoq-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="749.9999999999995" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU_BV3Jj0OZk1A3pwipz-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="748.14" y="560" width="45" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="BU_BV3Jj0OZk1A3pwipz-7" value="&lt;div&gt;Data &lt;br&gt;&lt;/div&gt;&lt;div&gt;Analysis&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="efUQSqCdX8FpRJUoyxoq-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="751" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BU_BV3Jj0OZk1A3pwipz-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Function_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="751.14" y="650" width="45.33" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
