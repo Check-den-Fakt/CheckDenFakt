@@ -1,4 +1,4 @@
-<mxfile modified="2020-10-11T14:48:16.078Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="e0BknG92ci3_9wdiZvoK" version="13.7.9" type="github">
+<mxfile modified="2020-10-11T14:49:42.262Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="ZAjF8pwwknUF0BPKDdTl" version="13.7.9" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="efUQSqCdX8FpRJUoyxoq-9" value="API Management" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" parent="1" vertex="1">
-          <mxGeometry x="229" y="390" width="43.33" height="40" as="geometry" />
+          <mxGeometry x="241.33" y="390" width="43.33" height="40" as="geometry" />
         </mxCell>
         <mxCell id="efUQSqCdX8FpRJUoyxoq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="efUQSqCdX8FpRJUoyxoq-11" target="efUQSqCdX8FpRJUoyxoq-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
